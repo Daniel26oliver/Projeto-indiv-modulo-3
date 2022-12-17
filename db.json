@@ -1,0 +1,85 @@
+{
+
+    "usuarios":[
+    {
+        "id": 1,
+        "nome": "steve",
+        "email":"steve@codingthesmartway.com",
+        "senha": 12543
+    },  
+
+    {
+        "id": 2,
+        "nome": "Sebastian",
+        "email":"sebastian@codingthesmartway.com",
+        "senha": 13452
+    },
+    
+    {
+        "id": 3,
+        "nome": "Ann",
+        "email":"ann@codingthesmartway.com",
+        "senha": 14523
+    }
+
+],
+
+    "clientes": [
+    {   
+        "id": 100,
+        "nome": "Jose",
+        "endereco": "Rua Projetada, 100",
+        "email": "jose@yahoo.com"
+    },
+
+    {
+        "id": 1,
+        "nome": "Maria",
+        "endereco": "Rua Peru, 34",
+        "email": "maria@bol.com.br"
+    },
+
+    {
+        "id": 2,
+        "nome": "Luana",
+        "endereco": "Rua XV de Novembro, 450",
+        "email": "luana@hotmail.com"
+    },
+
+    {
+        "id": 3,
+        "nome": "Edmundo",
+        "endereco": "Av. Mexico, 10",
+        "email": "edmundo@yahoo.com"
+    }
+
+],
+
+    "funcionários": [
+    {
+       "id": 1,
+       "nome": "Sebastian",
+       "sobrenome": "Eschweiler",
+       "email": "sebastian@codingthesmartway.com",
+       "salario": "3000"
+    },
+
+    {
+      "id": 2,
+      "nome": "Steve",
+      "sobrenome": "Palmer",
+      "email": "steve@codingthesmartway.com",
+      "salario": "4000"
+    },
+
+    {
+      "id": 3,
+      "nome": "Ann",
+      "sobrenome": "Smith",
+      "email": "ann@codingthesmartway.com",
+      "salario": "5000"
+    }
+    
+]
+ 
+}

@@ -1,0 +1,24 @@
+{
+  "name": "projeto-modulo-3",
+  "version": "1.0.0",
+
+  "dependencies": {
+    "json-server": "^0.17.1"
+  },
+  "description": "Desenvolver um servidor json onde irá conter 3 rotas com 4+ dados nas quais o usuário poderá realizar o `GET`, `POST`, `PUT`, `DELETE`.",
+  "main": "server.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+ "
+  },
+  "keywords": [
+    "Json-server"
+  ],
+
+    "scripts": {
+      "start": "json-server --watch db.json"
+    }
+    
+  }
+
